@@ -1,0 +1,1 @@
+The Online Restaurant Booking System is a web application designed to simplify table reservations for customers and streamline booking management for restaurants. It provides a seamless platform where users can explore restaurants, check available slots, and make bookings instantly.
